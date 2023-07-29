@@ -1,8 +1,8 @@
 public class Github {
 
-    public static void main(String[] args) {
-
-        // Prints "Hello, World" in the terminal window.
+    public static void main(String[] args)
+    {
+        // Print "Hello Github"
         System.out.println("Hello Github!");
     }
 
